@@ -1,6 +1,5 @@
-# car_plate_detection_by_darknet_yoloV3_Research
+# Car_plate_detection_by_darknet_yoloV3_Research
 
-# Car_plate_detection_by_darknet_yoloV3
 
 ## Tools could be used:
 - Then I explored which language I could use: **MATLAB** or **python**
