@@ -26,8 +26,6 @@ Final product is made using **darknet** framework, **yolov3** weights and used *
 - **Keras** is a Python deep-learning library. It provide an Application Programming Interface (API) that can be used to interface with other libraries, such as TensorFlow, in order to program neural networks. Keras is designed for rapid development and experimentation.
 - **PyTorch** is an open source library for machine learning, developed in large part by Facebook's AI Research lab. It is known for being comparatively easy to use, especially for developers already familiar with Python and a Pythonic code style.
 
-## CNN workflow (To write)
-
 ## YoloV3 functioning:
 
 "Selects box with highest probability from all boxed objects."
@@ -60,16 +58,16 @@ Final product is made using **darknet** framework, **yolov3** weights and used *
 * Define Distance between two images I1, I2 given dimensions x,y and color channels c
 * Works well when images are similar 
 
-
-### Architecture: 
-### Epoch:
-### Accuracy :
-### Activation function: 
-
 # **Prerequisites**
 
-Nothing much required before if you are directly running Google colab notebook
-Just need to run all the cells
+## Software Requirements:
+  * Google colab notebook or jupyter Notebook
+  * Python 3.8
+  * OpenCV
+  
+## Hardware Requirements: 
+  * NVIDIA GPU 940 MX and above
+  * 12 GB Ram and above
 
 
 ## **Google Colab Notebooks**
