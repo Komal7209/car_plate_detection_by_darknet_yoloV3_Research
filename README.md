@@ -75,17 +75,17 @@ Just need to run all the cells
 ## **Google Colab Notebooks**
 
 ## For environment set up( installation notebook):
-https://colab.research.google.com/drive/1G-gC0JQutALKQNyYDBgkjKuDD-qQuDni?usp=sharing
+https://colab.research.google.com/drive/1A0QJcqFwNJV0_y7TAE4ZSeB9VVO_3ceb?usp=sharing
 
 </br>
 
 ## For Model training (training notebook) :
-https://colab.research.google.com/drive/12qd5flRvELrnXsM_T_WM8yO_NtRqJIXS?usp=sharing
+https://colab.research.google.com/drive/1jsVbw4L2FKPcB9q4-YMvR6ZEKoQjvaGw?usp=sharing
 
 </br>
 
 ## For using the model over example image( demo notebook):
-https://colab.research.google.com/drive/1j8N7boMiNM65YiSqVRXpnJ_nALi3_Neo?usp=sharing
+https://colab.research.google.com/drive/1WnPkQEaDg93u6nMNywZNgZwpIMdkbbMR?usp=sharing
 
 </br>
 
